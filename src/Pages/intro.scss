@@ -1,0 +1,18 @@
+
+    .container{
+        display: flex;
+        // justify-content: center;
+        // align-items: center;
+        // height: 100vh;
+        // background-color: #f1f1f1;
+        .item{
+            display: flex;
+            font-size: 16px;
+            font-weight: 600;
+            .description{
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+            }
+        }
+    }
